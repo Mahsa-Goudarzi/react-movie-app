@@ -1,1 +1,1 @@
-# A dummy React app to exercise fetching data through HTTP requests
+### A small React app to exercise fetching and sending data through HTTP requests
